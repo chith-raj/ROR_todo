@@ -1,0 +1,27 @@
+// Place all the styles related to the todos controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+@import url("https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&family=Permanent+Marker&display=swap");
+
+body {
+  background-image: url("5591276.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+.title {
+  font-family: "Oleo Script Swash Caps", cursive;
+  position: relative;
+  top: 50px;
+  left: 860px;
+  font-size: 70px;
+  
+}
+.form-control{
+  font-family: "Oleo Script Swash Caps", cursive;
+  position: relative;
+  top: 90px;
+  left: 860px;
+  font-size: 30px;
+}
